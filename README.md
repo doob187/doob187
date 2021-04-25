@@ -9,5 +9,11 @@ https://discord.gg/A7h7bKBCVa
 ## Traefik V2 Installer 
 
 ```
-sudo wget https://raw.githubusercontent.com/doob187/traefikv2installer/main/wgetfile.sh -O /home/install.sh && sudo bash /home/install.sh
+sudo wget https://raw.githubusercontent.com/doob187/traefikv2installer/main/wgetfile.sh -O /home/install.sh
+sudo bash /home/install.sh
+
+or 
+
+sudo wget -qO- https://raw.githubusercontent.com/doob187/traefikv2installer/main/wgetfile.sh | sudo bash
+
 ```
