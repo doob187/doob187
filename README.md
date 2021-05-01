@@ -11,10 +11,13 @@ Run the following command:
 ```sh
 sudo wget -qO- https://git.io/J3GDc >/tmp/install.sh && sudo bash /tmp/install.sh
 ```
+
 <details>
   <summary>Long commmand if the short one doesn't work.</summary>
   <br />
+  
   ```sh
   sudo wget -qO- https://raw.githubusercontent.com/dockserver/dockserver/master/wgetfile.sh >/tmp/install.sh && sudo bash /tmp/install.sh
   ```
+
 </details>
