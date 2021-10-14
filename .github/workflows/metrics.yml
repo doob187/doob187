@@ -25,7 +25,7 @@ name: Metrics
 'on':
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: 0 0 * * *
   workflow_dispatch: null
