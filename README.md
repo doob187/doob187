@@ -1,3 +1,8 @@
+![shipit](https://github.githubassets.com/images/icons/emoji/shipit.png)
+![metrics](./github-metrics.svg)
+
+
+
 ## Support
 Kindly report any issues/broken-parts/bugs on [github](https://github.com/dockserver/dockserver/issues) or [discord](https://discord.gg/A7h7bKBCVa)
 
