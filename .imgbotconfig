@@ -1,0 +1,9 @@
+{
+    "schedule": "daily",
+    "ignoredFiles": [
+        "*.dvg"
+    ],
+    "aggressiveCompression": "true",
+    "compressWiki": "true",
+    "minKBReduced": 500
+}
