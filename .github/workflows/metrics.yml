@@ -9,7 +9,6 @@ jobs:
           committer_token: ${{ secrets.CR_PAT }}
           config_timezone: 'Europe/Berlin'
           user: dockserver
-          repo: dockserver
           template: repository
           plugin_traffic: 'yes'
           plugin_habits: 'yes'
