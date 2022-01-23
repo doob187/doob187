@@ -8,10 +8,16 @@ jobs:
         with:
           committer_token: ${{ secrets.CR_PAT }}
           config_timezone: Europe/Berlin
+          filename: metrics.plugin.traffic.svg
+          plugin_traffic: yes
+          filename: metrics.plugin.habits.charts.svg
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
           plugin_achievements: 'yes'
           plugin_achievements_limit: 0
           plugin_achievements_secrets: 'yes'
-          plugin_activity: 'no'
+          plugin_activity: 'yes'
           plugin_followup: 'yes'
           plugin_followup_sections: repositories, user
           plugin_languages: 'yes'
@@ -21,6 +27,7 @@ jobs:
           plugin_notable_repositories: 'yes'
           plugin_stargazers: 'yes'
           token: ${{ secrets.CR_PAT }}
+
 name: Metrics
 'on':
   push:
