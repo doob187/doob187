@@ -8,9 +8,7 @@ jobs:
         with:
           committer_token: ${{ secrets.CR_PAT }}
           config_timezone: Europe/Berlin
-          filename: metrics.plugin.traffic.svg
           plugin_traffic: yes
-          filename: metrics.plugin.habits.charts.svg
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
