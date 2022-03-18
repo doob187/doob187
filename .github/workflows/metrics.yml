@@ -29,10 +29,6 @@ jobs:
           plugin_notable_filter: stars:>1000
           plugin_notable_repositories: 'yes'
           plugin_stargazers: 'yes'
-          plugin_pagespeed: 'yes'
-          plugin_pagespeed_screenshot: 'yes'
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED }}
-          plugin_pagespeed_url: https://dockserver.io 
           token: ${{ secrets.CR_PAT }}
 
 name: Metrics
