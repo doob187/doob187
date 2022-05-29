@@ -5,4 +5,4 @@
 <br>
 ![doob187 metrics](./github-metrics.svg)
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=noob3k00&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=noob3k00&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=noob3k00&redirect=true)
