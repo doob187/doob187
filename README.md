@@ -5,6 +5,13 @@
 <br>
 ![doob187 metrics](./github-metrics.svg)
 
+
 [![trakt-github-card](https://trakt-github-card.vercel.app/card?username=mrdoob&mode=watch&theme=dark)](https://github.com/pablouser1/trakt-github-card)
+
+
+
+[![trakt-github-card](https://trakt-github-card.vercel.app/card?username=mrdoob&mode=stats&theme=dark)](https://github.com/pablouser1/trakt-github-card)
+
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=noob3k00&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=noob3k00&redirect=true)
