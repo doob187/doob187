@@ -1,3 +1,10 @@
+---
+name: Metrics
+'on':
+  schedule:
+    - cron: 0 */5 * * *
+  workflow_dispatch:
+
 jobs:
   metrics:
     name: Metrics
@@ -29,10 +36,9 @@ jobs:
           plugin_notable_filter: stars:>1000
           plugin_notable_repositories: 'yes'
           plugin_stargazers: 'yes'
+          optimize: svg
+          experimental_features: --optimize-svg
+          output_action: commit
+          committer_branch: master
+          committer_message: "chore: update metrics"
           token: ${{ secrets.CR_PAT }}
-
-name: Metrics
-'on':
-  schedule:
-    - cron: 0 */5 * * *
-  workflow_dispatch:
