@@ -38,7 +38,4 @@ jobs:
           plugin_stargazers: 'yes'
           optimize: svg
           experimental_features: --optimize-svg
-          output_action: commit
-          committer_branch: master
-          committer_message: "chore: update metrics"
           token: ${{ secrets.CR_PAT }}
