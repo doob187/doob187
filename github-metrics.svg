@@ -1669,7 +1669,7 @@
               
                 <rect class="day" x="180" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
               
-                <rect class="day" x="195" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L4-bg)" rx="2" ry="2"/>
+                <rect class="day" x="195" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
               
             </g>
           </svg>
@@ -2199,7 +2199,7 @@
 
       
         <footer>
-          <span>Last updated 25 Aug 2024, 22:06:41 with lowlighter/metrics@3.32.0</span>
+          <span>Last updated 26 Aug 2024, 02:21:51 with lowlighter/metrics@3.32.0</span>
         </footer>
       
 
