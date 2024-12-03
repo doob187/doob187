@@ -1877,7 +1877,7 @@
           
             <rect mask="url(#languages-bar)" x="453.87568765281173" y="0" width="2.384117766911165" height="8" fill="#a52a22"/>
           
-            <rect mask="url(#languages-bar)" x="456.2598054197229" y="0" width="1.5640281173594133" height="8" fill="#563d7c"/>
+            <rect mask="url(#languages-bar)" x="456.2598054197229" y="0" width="1.5640281173594133" height="8" fill="#663399"/>
           
             <rect mask="url(#languages-bar)" x="457.8238335370823" y="0" width="1.1217654849225753" height="8" fill="#701516"/>
           
@@ -1903,7 +1903,7 @@
                 
                   <div class="field language details">
                     <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       CSS
                     </div>
                     <small>
@@ -2188,7 +2188,7 @@
 
       
         <footer>
-          <span>Last updated 3 Dec 2024, 11:07:52 with lowlighter/metrics@3.32.0</span>
+          <span>Last updated 3 Dec 2024, 16:06:51 with lowlighter/metrics@3.32.0</span>
         </footer>
       
 
