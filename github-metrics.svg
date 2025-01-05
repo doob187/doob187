@@ -1667,9 +1667,9 @@
               
                 <rect class="day" x="165" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
               
-                <rect class="day" x="180" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L4-bg)" rx="2" ry="2"/>
+                <rect class="day" x="180" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
               
-                <rect class="day" x="195" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-bg)" rx="2" ry="2"/>
+                <rect class="day" x="195" y="0" width="11" height="11" fill="var(--color-calendar-graph-day-L4-bg)" rx="2" ry="2"/>
               
             </g>
           </svg>
@@ -2181,7 +2181,7 @@
 
       
         <footer>
-          <span>Last updated 4 Jan 2025, 21:06:41 with lowlighter/metrics@3.32.0</span>
+          <span>Last updated 5 Jan 2025, 01:26:54 with lowlighter/metrics@3.32.0</span>
         </footer>
       
 
